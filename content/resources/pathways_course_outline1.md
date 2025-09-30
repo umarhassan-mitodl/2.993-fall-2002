@@ -5,6 +5,8 @@ description: This presentation follows the progress and finished projects of one
 file: /courses/2-993-designing-paths-to-peace-fall-2002/40b2beea7b7e33d0329ff942d2fa3a8b_pathways_course_outline1.pdf
 file_size: 716629
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture notes for the first lecture given in the class, which captu
 file: /courses/2-993-designing-paths-to-peace-fall-2002/aa22df160964b988bb4dea57322ea6e0_pathways_course_outline.pdf
 file_size: 531066
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides notes from the first lecture given in the class,
   which captures the goals and spirit of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
